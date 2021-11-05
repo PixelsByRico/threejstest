@@ -1,7 +1,7 @@
 {
   "name": "threejs-load-models",
   "version": "1.0.0",
-  "description": "",
+  "description": "Created with CodeSandbox",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
@@ -16,5 +16,15 @@
     "@babel/core": "7.2.0",
     "parcel-bundler": "^1.6.1"
   },
-  "keywords": []
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PixelsByRico/threejstest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PixelsByRico/threejstest/issues"
+  },
+  "homepage": "https://github.com/PixelsByRico/threejstest#readme"
 }
